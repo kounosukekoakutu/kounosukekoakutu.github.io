@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kounosukekoakutu.github.io/static/css/main.fbae8351.css",
+    "main.js": "/kounosukekoakutu.github.io/static/js/main.785243bf.js",
+    "static/js/787.fdbe14ba.chunk.js": "/kounosukekoakutu.github.io/static/js/787.fdbe14ba.chunk.js",
+    "index.html": "/kounosukekoakutu.github.io/index.html",
+    "main.fbae8351.css.map": "/kounosukekoakutu.github.io/static/css/main.fbae8351.css.map",
+    "main.785243bf.js.map": "/kounosukekoakutu.github.io/static/js/main.785243bf.js.map",
+    "787.fdbe14ba.chunk.js.map": "/kounosukekoakutu.github.io/static/js/787.fdbe14ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbae8351.css",
+    "static/js/main.785243bf.js"
+  ]
+}
