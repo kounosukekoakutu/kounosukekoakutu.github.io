@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kounosukekoakutu/kounosukekoakutu.github.io/static/css/main.fbae8351.css",
-    "main.js": "/kounosukekoakutu/kounosukekoakutu.github.io/static/js/main.cb75e8c2.js",
-    "static/js/787.fdbe14ba.chunk.js": "/kounosukekoakutu/kounosukekoakutu.github.io/static/js/787.fdbe14ba.chunk.js",
-    "index.html": "/kounosukekoakutu/kounosukekoakutu.github.io/index.html",
-    "main.fbae8351.css.map": "/kounosukekoakutu/kounosukekoakutu.github.io/static/css/main.fbae8351.css.map",
-    "main.cb75e8c2.js.map": "/kounosukekoakutu/kounosukekoakutu.github.io/static/js/main.cb75e8c2.js.map",
-    "787.fdbe14ba.chunk.js.map": "/kounosukekoakutu/kounosukekoakutu.github.io/static/js/787.fdbe14ba.chunk.js.map"
+    "main.css": "/static/css/main.fbae8351.css",
+    "main.js": "/static/js/main.0c5d7ddb.js",
+    "static/js/787.fdbe14ba.chunk.js": "/static/js/787.fdbe14ba.chunk.js",
+    "index.html": "/index.html",
+    "main.fbae8351.css.map": "/static/css/main.fbae8351.css.map",
+    "main.0c5d7ddb.js.map": "/static/js/main.0c5d7ddb.js.map",
+    "787.fdbe14ba.chunk.js.map": "/static/js/787.fdbe14ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbae8351.css",
-    "static/js/main.cb75e8c2.js"
+    "static/js/main.0c5d7ddb.js"
   ]
 }
